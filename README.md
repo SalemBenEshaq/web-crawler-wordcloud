@@ -43,7 +43,7 @@ On first run, uncomment and execute `nltk.download("wordnet")` to fetch the Word
 ## Usage
 
 ```bash
-python Assign_4.py
+python web-crawler-wordcloud.py
 ```
 
 The script will:
